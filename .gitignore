@@ -221,3 +221,8 @@ __marimo__/
 # Data
 train/
 test/
+
+# Personal 
+klad_papper.ipynb
+*.npz
+

@@ -224,3 +224,5 @@ test/
 
 # Personal 
 klad_papper.ipynb
+*.npz
+
